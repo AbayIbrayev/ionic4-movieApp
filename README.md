@@ -1,2 +1,2 @@
 # ionic4-movieApp
-Ionic 4 Movie app with an OMDb API
+Movie app using Ionic4 + OMDb API implemented (http://www.omdbapi.com/)
