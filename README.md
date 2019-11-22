@@ -5,7 +5,7 @@ Movie app using Ionic4 with a side menu navigation + OMDb API implemented (http:
 
 1. Ionic CLI needed. Link: https://ionicframework.com/getting-started.
 2. Clone the project.
-3. Register for an API key on the OBDb API website http://www.omdbapi.com/apikey.aspx (it's Free).
+3. Register for an API key on the OMDb API website http://www.omdbapi.com/apikey.aspx (it's Free).
 4. When you recieved your API key set it in the project as your environment variable in the **ionic4-movieApp/src/environments/** folder:
    * You will need to create a new file <strong>environment.ts</strong>.
    * And insert following: 
@@ -19,10 +19,10 @@ Movie app using Ionic4 with a side menu navigation + OMDb API implemented (http:
 
 # Screenshots
 <p align="center">
-  <img width="400" height="600" alt="screenshot" src="screenshots/search.PNG">
-  <img width="400" height="600" alt="screenshot" src="screenshots/sort.PNG">
-  <img width="400" height="600" alt="screenshot" src="screenshots/side-menu.PNG">
-  <img width="400" height="600" alt="screenshot" src="screenshots/about.PNG">
-  <img width="400" height="600" alt="screenshot" src="screenshots/movie-details1.PNG">
-  <img width="400" height="600" alt="screenshot" src="screenshots/movie-details2.PNG">
+  <img width="400" height="650" alt="screenshot" src="screenshots/search.PNG">
+  <img width="400" height="650" alt="screenshot" src="screenshots/sort.PNG">
+  <img width="400" height="650" alt="screenshot" src="screenshots/side-menu.PNG">
+  <img width="400" height="650" alt="screenshot" src="screenshots/about.PNG">
+  <img width="400" height="650" alt="screenshot" src="screenshots/movie-details1.PNG">
+  <img width="400" height="650" alt="screenshot" src="screenshots/movie-details2.PNG">
 </p>  
